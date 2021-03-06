@@ -34,7 +34,7 @@ body {
     background-color: white;
     width: 960px;
     margin: 15px auto;
-    border: 5px solid black;
+    border: 1px solid black;
     
 }
 .cabecera {
@@ -76,4 +76,8 @@ article {
     padding: 20px;
     margin: 20px 0;
     border: 1px solid rgb(219, 219, 219) ;
+}
+
+time {
+    color: #aaa69d;
 }
