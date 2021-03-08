@@ -10,7 +10,7 @@ h1 {
 
 
 footer {
-    background-color: rgb(70, 70, 255);
+    background-color:  rgb(241, 239, 239);
 }
 .TituloArticulo {
     font-size: 20px;
@@ -57,7 +57,7 @@ body {
 }
 .seccion {
     margin: 20px;
-    width: 800px;
+    width: 700px;
     float: left;
 }
 
@@ -65,7 +65,7 @@ body {
     border: 1px solid black;
     width: 150px;
     float: right;
-    margin-bottom: 20px ;
+    margin: 40px 20px ;
     
 }
 .pie {
